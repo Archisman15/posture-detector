@@ -8,7 +8,6 @@ This project implements real-time human pose estimation directly in the browser 
 
 - Real-time human pose estimation in the browser.
 - Support for webcam input.
-- Pose estimation from images.
 - Lightweight and efficient implementation using TensorFlow.js.
 
 ## Usage
